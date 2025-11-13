@@ -1,5 +1,6 @@
 ﻿using System.Data.Linq;
 using System.Data.Linq.Mapping;
+using System.Configuration;
 
 namespace QuanLyThuVienApp
 {
@@ -8,7 +9,7 @@ namespace QuanLyThuVienApp
         private static readonly MappingSource MappingSource = new AttributeMappingSource();
 
         public QLTVEntities()
-            : base("name=QLTVEntities", MappingSource)
+            : base(ConfigurationManager.ConnectionStrings["QLTVEntities"].ConnectionString, MappingSource)
         {
         }
 
