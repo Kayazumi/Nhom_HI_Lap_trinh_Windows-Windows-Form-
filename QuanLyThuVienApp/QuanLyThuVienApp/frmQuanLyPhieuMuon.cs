@@ -364,10 +364,16 @@ namespace QuanLyThuVienApp
             nguoiDung.SoSachMuon -= tongSach;
 
             List<ChiTietPhieuMuon> chiTietPhieuMuons = db.ChiTietPhieuMuons.Where(p => p.MaPhieu == maPhieu).ToList();
-            db.ChiTietPhieuMuons.RemoveRange(chiTietPhieuMuons);
+            if (chiTietPhieuMuons.Any())
+            {
+                db.ChiTietPhieuMuons.DeleteAllOnSubmit(chiTietPhieuMuons);
+            }
 
             PhieuMuon phieuMuon = db.PhieuMuons.Where(p => p.MaPhieu == maPhieu).FirstOrDefault();
-            db.PhieuMuons.Remove(phieuMuon);
+            if (phieuMuon != null)
+            {
+                db.PhieuMuons.DeleteOnSubmit(phieuMuon);
+            }
 
             db.SaveChanges();
             btnLamMoi.PerformClick();

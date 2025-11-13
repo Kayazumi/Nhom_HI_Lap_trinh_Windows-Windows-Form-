@@ -27,14 +27,14 @@ namespace QuanLyThuVienApp
             QLTVEntities db = new QLTVEntities();
             NguoiDung nguoiDung = db.NguoiDungs.Where(p=>p.ID == frmMainUser.ID).FirstOrDefault();
 
-            dgvPhieuMuon.DataSource = db.PhieuMuons.Where(p => p.IDBanDoc == nguoiDung.ID)
+            var phieuMuons = db.PhieuMuons.Where(p => p.IDBanDoc == nguoiDung.ID).ToList();
+
+            dgvPhieuMuon.DataSource = phieuMuons
                 .Select(p => new
                 {
                     p.MaPhieu,
                     p.NgayDangKyMuon,
-                    TrangThai = (p.TrangThai == 0) ? "Đăng ký mượn" :
-                                (p.TrangThai == 2) ? "Đã trả" :
-                                (DbFunctions.TruncateTime(DateTime.Now) > DbFunctions.TruncateTime(p.HanTra)) ? "Quá hạn" : "Đang mượn",
+                    TrangThai = GetTrangThai(p),
                     p.NgayMuon,
                     p.HanTra,
                     p.NgayTra
@@ -132,8 +132,15 @@ namespace QuanLyThuVienApp
             // xóa phiếu mượn và phiếu chi tiết
             PhieuMuon phieuMuon = db.PhieuMuons.Where(p => p.MaPhieu == maPhieu).FirstOrDefault();
             List<ChiTietPhieuMuon> chiTietPhieuMuon = db.ChiTietPhieuMuons.Where(p => p.MaPhieu == maPhieu).ToList();
-            db.PhieuMuons.Remove(phieuMuon);
-            db.ChiTietPhieuMuons.RemoveRange(chiTietPhieuMuon);
+            if (chiTietPhieuMuon.Any())
+            {
+                db.ChiTietPhieuMuons.DeleteAllOnSubmit(chiTietPhieuMuon);
+            }
+
+            if (phieuMuon != null)
+            {
+                db.PhieuMuons.DeleteOnSubmit(phieuMuon);
+            }
 
             // lưu vào database
             db.SaveChanges();
@@ -155,27 +162,23 @@ namespace QuanLyThuVienApp
             }
 
             QLTVEntities db = new QLTVEntities();
-            List<PhieuMuon> phieuMuons = new List<PhieuMuon>();
+            var phieuMuons = db.PhieuMuons.ToList();
 
             if(cbLoc.Text == "Đăng ký mượn")
-                phieuMuons = db.PhieuMuons.Where(p => p.TrangThai == 0).ToList();
+                phieuMuons = phieuMuons.Where(p => p.TrangThai.GetValueOrDefault() == 0).ToList();
             else if (cbLoc.Text == "Đã trả")
-                phieuMuons = db.PhieuMuons.Where(p => p.TrangThai == 2).ToList();
+                phieuMuons = phieuMuons.Where(p => p.TrangThai.GetValueOrDefault() == 2).ToList();
             else if (cbLoc.Text == "Quá hạn")
-                phieuMuons = db.PhieuMuons.Where(p => p.TrangThai == 1 
-                && DbFunctions.TruncateTime(DateTime.Now) > DbFunctions.TruncateTime(p.HanTra)).ToList();
+                phieuMuons = phieuMuons.Where(IsQuaHan).ToList();
             else
-                phieuMuons = db.PhieuMuons.Where(p => p.TrangThai == 1
-                && DbFunctions.TruncateTime(DateTime.Now) <= DbFunctions.TruncateTime(p.HanTra)).ToList();
+                phieuMuons = phieuMuons.Where(p => p.TrangThai.GetValueOrDefault() == 1 && !IsQuaHan(p)).ToList();
 
             dgvPhieuMuon.DataSource = phieuMuons
                            .Select(p => new
                            {
                                p.MaPhieu,
                                p.NgayDangKyMuon,
-                               TrangThai = (p.TrangThai == 0) ? "Đăng ký mượn" :
-                                (p.TrangThai == 2) ? "Đã trả" :
-                                DateTime.Now.Date > p.HanTra.Value.Date ? "Quá hạn" : "Đang mượn",
+                               TrangThai = GetTrangThai(p),
                                p.NgayMuon,
                                p.HanTra,
                                p.NgayTra
@@ -188,6 +191,23 @@ namespace QuanLyThuVienApp
         {
             if (dgvPhieuMuon.Rows[e.RowIndex].Cells["TrangThai"].Value.ToString() == "Quá hạn")
                 e.CellStyle.ForeColor = Color.Red;
+        }
+
+        private static bool IsQuaHan(PhieuMuon phieu)
+        {
+            return phieu.TrangThai.GetValueOrDefault() == 1
+                   && phieu.HanTra.HasValue
+                   && DateTime.Now.Date > phieu.HanTra.Value.Date;
+        }
+
+        private static string GetTrangThai(PhieuMuon phieu)
+        {
+            var trangThai = phieu.TrangThai.GetValueOrDefault();
+
+            if (trangThai == 0) return "Đăng ký mượn";
+            if (trangThai == 2) return "Đã trả";
+
+            return IsQuaHan(phieu) ? "Quá hạn" : "Đang mượn";
         }
     }
 }
