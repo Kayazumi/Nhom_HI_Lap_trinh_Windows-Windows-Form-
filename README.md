@@ -701,24 +701,23 @@ Thư viện trường học hiện đại cần một hệ thống quản lý t�
 ---
 
 ## Tài Liệu Tham Khảo
-
-1. Microsoft Docs – [.NET Framework 4.8](https://learn.microsoft.com/dotnet/framework/)  
-2. Microsoft Docs – [Windows Forms Overview](https://learn.microsoft.com/dotnet/desktop/winforms/)  
-3. Microsoft Docs – [Entity Framework 6](https://learn.microsoft.com/ef/ef6/)  
-4. MetroFramework GitHub – [MetroModernUI Documentation](https://github.com/peters/winforms-modernui)  
-5. FontAwesome.Sharp – [NuGet Package](https://www.nuget.org/packages/FontAwesome.Sharp/)  
-6. Microsoft ReportViewer – [WinForms control reference](https://learn.microsoft.com/sql/reporting-services/application-integration/winforms-controls)  
-7. Joseph Albahari – "C# 8.0 in a Nutshell", O'Reilly, 2020.  
-8. Silberschatz A. – "Database System Concepts", McGraw-Hill, 7th edition.  
-9. IEEE Xplore – "Library Information Systems: A Comparative Study", 2020.  
-10. Stack Overflow Documentation – WinForms best practices (community wiki).  
-11. Entity Framework 6 Documentation – [Code First, Database First, Model First](https://learn.microsoft.com/ef/ef6/)  
-12. Gmail SMTP – [Sending email via SMTP](https://support.google.com/a/answer/176600)  
-13. MD5 Security – [Why MD5 is insecure](https://en.wikipedia.org/wiki/MD5#Security)  
-14. SQL Server LocalDB – [LocalDB Documentation](https://learn.microsoft.com/sql/database-engine/configure-windows/sql-server-express-localdb)  
-
-> Đảm bảo trích dẫn bổ sung nếu nhóm sử dụng tài liệu khác (tối thiểu 10 nguồn chính thống).
-
+1. Lương Trần Hi Hiến. (n.d.). *Lập trình Windows Form với C#* [Slide bài giảng]. Trường Đại học Sư phạm Thành phố Hồ Chí Minh.
+2. Troelsen, A., & Japikse, P. (2017). *Pro C# 7: With .NET and .NET Core* (8th ed.). Apress.
+3. Microsoft. (n.d.). *.NET Framework 4.8*. Microsoft Learn. https://learn.microsoft.com/dotnet/framework/
+4. Microsoft. (n.d.). *Windows Forms overview*. Microsoft Learn. https://learn.microsoft.com/dotnet/desktop/winforms/
+5. Microsoft. (n.d.). *Entity Framework 6*. Microsoft Learn. https://learn.microsoft.com/ef/ef6/
+6. Peters, D. (n.d.). *MetroModernUI* [Computer software]. GitHub. https://github.com/peters/winforms-modernui
+7. FontAwesome.Sharp. (n.d.). *FontAwesome.Sharp* [NuGet package]. NuGet. https://www.nuget.org/packages/FontAwesome.Sharp/
+8. Microsoft. (n.d.). *WinForms controls (Reporting Services)*. Microsoft Learn. https://learn.microsoft.com/sql/reporting-services/application-integration/winforms-controls
+9. Albahari, J. (2020). *C# 8.0 in a nutshell*. O'Reilly Media.
+10. Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). *Database system concepts* (7th ed.). McGraw-Hill Education.
+11. IEEE Xplore. (2020). *Library information systems: A comparative study*.
+12. Stack Overflow. (n.d.). *WinForms best practices* [Community wiki]. Stack Overflow Documentation.
+13. Microsoft. (n.d.). *Entity Framework 6: Code First, Database First, Model First*. Microsoft Learn. https://learn.microsoft.com/ef/ef6/
+14. Gmail SMTP. (n.d.). *Send email from a printer, scanner, or app*. Google Workspace Admin Help. https://support.google.com/a/answer/176600
+15. MD5. (n.d.). In *Wikipedia*. https://en.wikipedia.org/wiki/MD5#Security
+16. Microsoft. (n.d.). *SQL Server Express LocalDB*. Microsoft Learn. https://learn.microsoft.com/sql/database-engine/configure-windows/sql-server-express-localdb
+17. 
 ---
 
 ## Phụ Lục
