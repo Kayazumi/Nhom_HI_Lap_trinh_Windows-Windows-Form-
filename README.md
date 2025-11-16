@@ -17,7 +17,7 @@
 | --- | --------- | ---- | ------------- | ----- |
 | 1 | .................................. | ........ | Trưởng nhóm, phân tích nghiệp vụ | ...............@gmail.com |
 | 2 | .................................. | ........ | Thiết kế giao diện, chuẩn hóa UI | ...............@gmail.com |
-| 3 | .................................. | ........ | Lập trình chức năng, LINQ to SQL | ...............@gmail.com |
+| 3 | .................................. | ........ | Lập trình chức năng, Entity Framework | ...............@gmail.com |
 | 4 | .................................. | ........ | Kiểm thử, viết báo cáo, báo cáo thống kê | ...............@gmail.com |
 
 > **Ghi chú**: Điền đầy đủ thông tin thật trước khi nộp báo cáo.
@@ -179,11 +179,12 @@ Thư viện trường học hiện đại cần một hệ thống quản lý t�
 - Mô hình event-driven: Ứng dụng phản ứng với các sự kiện người dùng (click, nhập liệu, v.v.)
 - Hỗ trợ thao tác trực quan với control thông qua Visual Studio Designer
 
-**LINQ to SQL:**
-- LINQ (Language Integrated Query) là công nghệ truy vấn dữ liệu tích hợp trong C#
-- LINQ to SQL giúp ánh xạ CSDL SQL Server qua các entity class như `Sach`, `NguoiDung`, `PhieuMuon`
+**Entity Framework 6.5.1 (Database First):**
+- Entity Framework là ORM (Object-Relational Mapping) framework của Microsoft
+- Sử dụng mô hình Database First: Tạo database trước, sau đó sinh entity class từ `EntityModel.edmx`
+- LINQ (Language Integrated Query) được sử dụng để truy vấn dữ liệu qua các entity class như `Sach`, `NguoiDung`, `PhieuMuon`
 - Sử dụng `QLTVEntities` (DbContext) để thao tác với database thông qua LINQ queries
-- Ưu điểm: Type-safe, IntelliSense hỗ trợ, giảm code SQL thủ công
+- Ưu điểm: Type-safe, IntelliSense hỗ trợ, giảm code SQL thủ công, hỗ trợ lazy loading, change tracking
 
 ### 2.2. Windows Forms SDI/MDI và Thư Viện UI
 
@@ -628,7 +629,7 @@ Thư viện trường học hiện đại cần một hệ thống quản lý t�
 
 **Những gì đã làm được:**
 - ✅ Ứng dụng đáp ứng các yêu cầu nghiệp vụ thư viện: quản lý danh mục, bạn đọc, mượn – trả – gia hạn, báo cáo thống kê
-- ✅ Sử dụng LINQ to SQL đảm bảo đồng bộ với CSDL; UI Metro đem lại trải nghiệm nhất quán
+- ✅ Sử dụng Entity Framework 6.5.1 (Database First) đảm bảo đồng bộ với CSDL; UI Metro đem lại trải nghiệm nhất quán
 - ✅ Xác thực OTP qua email đảm bảo bảo mật tài khoản
 - ✅ Phân quyền Admin/User rõ ràng, khóa tài khoản có hiệu lực
 - ✅ Báo cáo thống kê hỗ trợ quản lý hiệu quả
@@ -703,7 +704,7 @@ Thư viện trường học hiện đại cần một hệ thống quản lý t�
 
 1. Microsoft Docs – [.NET Framework 4.8](https://learn.microsoft.com/dotnet/framework/)  
 2. Microsoft Docs – [Windows Forms Overview](https://learn.microsoft.com/dotnet/desktop/winforms/)  
-3. Microsoft Docs – [LINQ to SQL](https://learn.microsoft.com/dotnet/framework/data/adonet/sql/linq/)  
+3. Microsoft Docs – [Entity Framework 6](https://learn.microsoft.com/ef/ef6/)  
 4. MetroFramework GitHub – [MetroModernUI Documentation](https://github.com/peters/winforms-modernui)  
 5. FontAwesome.Sharp – [NuGet Package](https://www.nuget.org/packages/FontAwesome.Sharp/)  
 6. Microsoft ReportViewer – [WinForms control reference](https://learn.microsoft.com/sql/reporting-services/application-integration/winforms-controls)  
