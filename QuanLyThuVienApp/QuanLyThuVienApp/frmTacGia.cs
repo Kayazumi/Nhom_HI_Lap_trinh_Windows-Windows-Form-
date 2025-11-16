@@ -11,18 +11,31 @@ using System.Windows.Forms.VisualStyles;
 
 namespace QuanLyThuVienApp
 {
+    /// <summary>
+    /// Form quản lý tác giả
+    /// Cho phép thêm, sửa, xóa, tìm kiếm tác giả
+    /// </summary>
     public partial class frmTacGia : MetroFramework.Forms.MetroForm
     {
+        /// <summary>
+        /// Khởi tạo form quản lý tác giả
+        /// </summary>
         public frmTacGia()
         {
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Sự kiện Load form - Load dữ liệu tác giả
+        /// </summary>
         private void frmTacGia_Load(object sender, EventArgs e)
         {
             loadDuLieu();
         }
 
+        /// <summary>
+        /// Load danh sách tác giả từ database và hiển thị lên DataGridView
+        /// </summary>
         private void loadDuLieu()
         {
             QLTVEntities db = new QLTVEntities();
@@ -42,15 +55,22 @@ namespace QuanLyThuVienApp
             }
         }
 
+        /// <summary>
+        /// Sự kiện click vào DataGridView - Hiển thị thông tin tác giả được chọn
+        /// </summary>
         private void dgvTacGia_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex == -1) return;
 
+            // Hiển thị thông tin tác giả được chọn vào các textbox
             txtMa.Text = dgvTacGia.Rows[e.RowIndex].Cells["MaTG"].Value.ToString();
             txtTen.Text = dgvTacGia.Rows[e.RowIndex].Cells["TenTG"].Value.ToString();
             txtMoTa.Text = dgvTacGia.Rows[e.RowIndex].Cells["MoTa"].Value.ToString();
         }
 
+        /// <summary>
+        /// Tìm kiếm tác giả theo Mã tác giả hoặc Tên tác giả
+        /// </summary>
         private void btnTim_Click(object sender, EventArgs e)
         {
             QLTVEntities db = new QLTVEntities();
@@ -94,6 +114,9 @@ namespace QuanLyThuVienApp
             loadDuLieu();
         }
 
+        /// <summary>
+        /// Thêm tác giả mới vào database
+        /// </summary>
         private void btnThem_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show(
@@ -105,16 +128,18 @@ namespace QuanLyThuVienApp
 
             if (result == DialogResult.No) return;
 
+            // Validate dữ liệu đầu vào
             if (txtTenTG.Text == "" || txtMoTaTG.Text == "")
             {
                 MessageBox.Show("Vui lòng nhập đầy đủ thông tin!", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
+            // Tạo tác giả mới
             TacGia tacGia = new TacGia();
             tacGia.TenTG = txtTenTG.Text;
             tacGia.MoTa = txtMoTaTG.Text;
-            tacGia.SoMaSach = 0;
+            tacGia.SoMaSach = 0; // Số sách ban đầu = 0
 
             QLTVEntities db = new QLTVEntities();
             db.TacGias.Add(tacGia);
@@ -125,6 +150,9 @@ namespace QuanLyThuVienApp
             MessageBox.Show("Thêm tác giả thành công!", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
+        /// <summary>
+        /// Sửa thông tin tác giả đã chọn
+        /// </summary>
         private void btnSua_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show(
@@ -136,6 +164,7 @@ namespace QuanLyThuVienApp
 
             if (result == DialogResult.No) return;
 
+            // Validate dữ liệu
             if (txtTen.Text == "" || txtMoTa.Text == "")
             {
                 MessageBox.Show("Vui lòng nhập đầy đủ thông tin!", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -143,9 +172,11 @@ namespace QuanLyThuVienApp
             }
 
             QLTVEntities db = new QLTVEntities();
+            // Lấy mã tác giả từ text (bỏ "TG" ở đầu)
             int maTG = int.Parse(txtMa.Text.Substring(2));
             TacGia tacGia = db.TacGias.Where(p=>p.MaTG == maTG).FirstOrDefault();
 
+            // Cập nhật thông tin
             tacGia.TenTG = txtTen.Text;
             tacGia.MoTa = txtMoTa.Text;
 
@@ -154,6 +185,10 @@ namespace QuanLyThuVienApp
             MessageBox.Show("Sửa tác giả thành công!", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
+        /// <summary>
+        /// Xóa tác giả khỏi database
+        /// Chỉ cho phép xóa nếu tác giả chưa có sách nào (SoMaSach = 0)
+        /// </summary>
         private void btnXoa_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show(
@@ -169,12 +204,14 @@ namespace QuanLyThuVienApp
             int maTG = int.Parse(txtMa.Text.Substring(2));
             TacGia tacGia = db.TacGias.Where(p=>p.MaTG == maTG).FirstOrDefault();
 
+            // Kiểm tra tác giả có sách trong thư viện không
             if(tacGia.SoMaSach != 0) 
             {
                 MessageBox.Show("Tác giả đang có sách trong thư viện!", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
             
+            // Xóa tác giả
             db.TacGias.Remove(tacGia);
             db.SaveChanges();
             loadDuLieu();
