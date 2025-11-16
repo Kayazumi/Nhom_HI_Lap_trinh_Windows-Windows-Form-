@@ -274,11 +274,11 @@ Mọi đóng góp đều được chào đón! Vui lòng:
 
 ## 📞 Liên Hệ
 
-- **Email**: thuvienhcmue@gmail.com
-- **Repository**: [GitHub Link]
+
+- **Repository**: [https://github.com/Kayazumi/Nhom_HI_Lap_trinh_Windows-Windows-Form-]
 
 ---
 
-**Phát triển bởi**: Nhóm sinh viên Công nghệ thông tin  
-**Thời gian**: 09/2024 – 11/2024  
+**Phát triển bởi**: Nhóm Hi 
+**Thời gian**: 10/2025 – 11/2025  
 **Phiên bản**: 1.0.0
