@@ -1,0 +1,735 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|d:\\quanlythuvienc# chinh1chut3\\quanlythuvienc# chinh1chut3\\quanlythuvienc#\\quanlythuvienc#\\quanlythuvienapp\\quanlythuvienapp\\frminfor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frminfor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|d:\\quanlythuvienc# chinh1chut3\\quanlythuvienc# chinh1chut3\\quanlythuvienc#\\quanlythuvienc#\\quanlythuvienapp\\quanlythuvienapp\\rphoadonphat.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\rphoadonphat.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|d:\\quanlythuvienc# chinh1chut3\\quanlythuvienc# chinh1chut3\\quanlythuvienc#\\quanlythuvienc#\\quanlythuvienapp\\quanlythuvienapp\\rptilesachtheotheloai.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\rptilesachtheotheloai.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|d:\\quanlythuvienc# chinh1chut3\\quanlythuvienc# chinh1chut3\\quanlythuvienc#\\quanlythuvienc#\\quanlythuvienapp\\quanlythuvienapp\\rpslsachtheotheloai.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\rpslsachtheotheloai.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|d:\\quanlythuvienc# chinh1chut3\\quanlythuvienc# chinh1chut3\\quanlythuvienc#\\quanlythuvienc#\\quanlythuvienapp\\quanlythuvienapp\\frmreportslsachtheotheloai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmreportslsachtheotheloai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|d:\\quanlythuvienc# chinh1chut3\\quanlythuvienc# chinh1chut3\\quanlythuvienc#\\quanlythuvienc#\\quanlythuvienapp\\quanlythuvienapp\\frmreportslsachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmreportslsachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmtrogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmtrogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|d:\\quanlythuvienc# chinh1chut3\\quanlythuvienc# chinh1chut3\\quanlythuvienc#\\quanlythuvienc#\\quanlythuvienapp\\quanlythuvienapp\\frminfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frminfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmcpie_sachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmcpie_sachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmccolumn_sachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmccolumn_sachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|d:\\quanlythuvienc# chinh1chut3\\quanlythuvienc# chinh1chut3\\quanlythuvienc#\\quanlythuvienc#\\quanlythuvienapp\\quanlythuvienapp\\entitymodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\entitymodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|d:\\quanlythuvienc# chinh1chut3\\quanlythuvienc# chinh1chut3\\quanlythuvienc#\\quanlythuvienc#\\quanlythuvienapp\\quanlythuvienapp\\frmlichsumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmlichsumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmlichsumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmlichsumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmmainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmmainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmdatlaimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmdatlaimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmgiahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmgiahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmccolumn_sachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmccolumn_sachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmcanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmcanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\qltvdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\qltvdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmnxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmquanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\guiemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\guiemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmtimtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmtimtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmreportslsachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmreportslsachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmquanlyphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmquanlyphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\sqlservertypes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\sqlservertypes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmchonbandoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmchonbandoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmmuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmmuonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmreporthoadonphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmreporthoadonphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmquanlybandoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmquanlybandoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmtheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmxacthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmxacthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmxacthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmxacthuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmreporttilesachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmreporttilesachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmreporttilesachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmreporttilesachtheotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\quanlythuvienapp\\frmquanlybandoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00DE5F0-6774-4EAD-823B-2976CEC8D013}|QuanLyThuVienApp\\QuanLyThuVienApp.csproj|solutionrelative:quanlythuvienapp\\frmquanlybandoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rpTiLeSachTheoTheLoai.rdlc",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\rpTiLeSachTheoTheLoai.rdlc",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\rpTiLeSachTheoTheLoai.rdlc",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\rpTiLeSachTheoTheLoai.rdlc",
+              "RelativeToolTip": "QuanLyThuVienApp\\rpTiLeSachTheoTheLoai.rdlc",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-15T15:50:42.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReportSLSachTheoTheLoai.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.Designer.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.Designer.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:39:06.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rpSLSachTheoTheLoai.rdlc",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\rpSLSachTheoTheLoai.rdlc",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\rpSLSachTheoTheLoai.rdlc",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\rpSLSachTheoTheLoai.rdlc",
+              "RelativeToolTip": "QuanLyThuVienApp\\rpSLSachTheoTheLoai.rdlc",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-15T15:31:51.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rpHoaDonPhat.rdlc",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\rpHoaDonPhat.rdlc",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\rpHoaDonPhat.rdlc",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\rpHoaDonPhat.rdlc",
+              "RelativeToolTip": "QuanLyThuVienApp\\rpHoaDonPhat.rdlc",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-15T15:31:44.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInfor.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmInfor.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmInfor.Designer.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmInfor.Designer.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmInfor.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwJEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:26:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReportSLSachTheoTheLoai.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:39:01.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmInfor.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmInfor.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmInfor.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmInfor.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmInfor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:26:13.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\EntityModel.edmx",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\EntityModel.edmx",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\EntityModel.edmx [Diagram1]",
+              "RelativeToolTip": "QuanLyThuVienApp\\EntityModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-15T15:21:02.534Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmLichSuMuon.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmLichSuMuon.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmLichSuMuon.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmLichSuMuon.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmLichSuMuon.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAqwNEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:49:35.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\App.config",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\App.config",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\App.config",
+              "RelativeToolTip": "QuanLyThuVienApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-13T07:30:59.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmTroGiup.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTroGiup.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmTroGiup.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTroGiup.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmTroGiup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:19.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmSach.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmSach.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmSach.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmSach.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:24.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCColumn_SachTheoTheLoai.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmCColumn_SachTheoTheLoai.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmCColumn_SachTheoTheLoai.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmCColumn_SachTheoTheLoai.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmCColumn_SachTheoTheLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCPie_SachTheoTheLoai.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmCPie_SachTheoTheLoai.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmCPie_SachTheoTheLoai.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmCPie_SachTheoTheLoai.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmCPie_SachTheoTheLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmReportHoaDonPhat.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportHoaDonPhat.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmReportHoaDonPhat.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportHoaDonPhat.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportHoaDonPhat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:30.669Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmLichSuMuon.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmLichSuMuon.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmLichSuMuon.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmLichSuMuon.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmLichSuMuon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:12.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmPhanQuyen.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmPhanQuyen.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmPhanQuyen.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmPhanQuyen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmPhanQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:49.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmTacGia.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTacGia.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmTacGia.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTacGia.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTacGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:22.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmMainAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmMainAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmMainAdmin.cs",
+              "ToolTip": "D:\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmMainAdmin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmMainAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:27:44.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmMainUser.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmMainUser.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmMainUser.cs",
+              "ToolTip": "D:\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmMainUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmMainUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:15.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QLTVDataSet.xsd",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\QLTVDataSet.xsd",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\QLTVDataSet.xsd",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\QLTVDataSet.xsd",
+              "RelativeToolTip": "QuanLyThuVienApp\\QLTVDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-11-05T08:38:48.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmTimTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTimTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmTimTaiKhoan.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTimTaiKhoan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTimTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:21.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmTheLoai.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTheLoai.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmTheLoai.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTheLoai.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmTheLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:20.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmNXB.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmNXB.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmNXB.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmNXB.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmNXB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:18.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDatLaiMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmDatLaiMatKhau.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmDatLaiMatKhau.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmDatLaiMatKhau.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmDatLaiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:47:07.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:46:46.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\SqlServerTypes\\Loader.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\SqlServerTypes\\Loader.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\SqlServerTypes\\Loader.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\SqlServerTypes\\Loader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:46:27.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmQuanLySach.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLySach.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmQuanLySach.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLySach.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLySach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:46:12.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmQuanLyPhieuMuon.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLyPhieuMuon.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmQuanLyPhieuMuon.cs",
+              "ToolTip": "D:\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLyPhieuMuon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLyPhieuMuon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:46:06.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmReportSLSachTheoTheLoai.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmReportSLSachTheoTheLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:46:05.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmMuonSach.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmMuonSach.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmMuonSach.cs",
+              "ToolTip": "D:\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmMuonSach.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmMuonSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:45:03.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmXacThuc.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmXacThuc.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmXacThuc.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmXacThuc.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmXacThuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:36:17.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmXacThuc.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmXacThuc.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmXacThuc.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmXacThuc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmXacThuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:36:12.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GuiEmail.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\GuiEmail.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\GuiEmail.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\GuiEmail.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\GuiEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:35:30.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmGiaHan.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmGiaHan.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmGiaHan.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmGiaHan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmGiaHan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:27:38.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmChonBanDoc.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmChonBanDoc.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmChonBanDoc.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmChonBanDoc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmChonBanDoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:27:09.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmDangKy.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmDangKy.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:26:52.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmReportTiLeSachTheoTheLoai.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportTiLeSachTheoTheLoai.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmReportTiLeSachTheoTheLoai.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportTiLeSachTheoTheLoai.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportTiLeSachTheoTheLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmReportTiLeSachTheoTheLoai.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportTiLeSachTheoTheLoai.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmReportTiLeSachTheoTheLoai.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmReportTiLeSachTheoTheLoai.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmReportTiLeSachTheoTheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmCColumn_SachTheoTheLoai.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmCColumn_SachTheoTheLoai.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmCColumn_SachTheoTheLoai.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmCColumn_SachTheoTheLoai.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmCColumn_SachTheoTheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmCaNhan.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmCaNhan.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmCaNhan.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmCaNhan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmCaNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmQuanLyBanDoc.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLyBanDoc.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmQuanLyBanDoc.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLyBanDoc.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\frmQuanLyBanDoc.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAEwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmQuanLyBanDoc.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLyBanDoc.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmQuanLyBanDoc.cs",
+              "ToolTip": "D:\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLyBanDoc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmQuanLyBanDoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\frmDangNhap.cs",
+              "ToolTip": "D:\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CodeHub\\VisualStudio\\QuanLyThuVienc# chinh1chut\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVienApp\\Program.cs",
+              "ToolTip": "D:\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc# chinh1chut3\\QuanLyThuVienc#\\QuanLyThuVienc#\\QuanLyThuVienApp\\QuanLyThuVienApp\\Program.cs",
+              "RelativeToolTip": "QuanLyThuVienApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:20:35.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
