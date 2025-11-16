@@ -717,7 +717,7 @@ Thư viện trường học hiện đại cần một hệ thống quản lý t�
 14. Gmail SMTP. (n.d.). *Send email from a printer, scanner, or app*. Google Workspace Admin Help. https://support.google.com/a/answer/176600
 15. MD5. (n.d.). In *Wikipedia*. https://en.wikipedia.org/wiki/MD5#Security
 16. Microsoft. (n.d.). *SQL Server Express LocalDB*. Microsoft Learn. https://learn.microsoft.com/sql/database-engine/configure-windows/sql-server-express-localdb
-17. 
+ 
 ---
 
 ## Phụ Lục
