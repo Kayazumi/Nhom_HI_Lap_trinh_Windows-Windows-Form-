@@ -280,5 +280,4 @@ Mọi đóng góp đều được chào đón! Vui lòng:
 ---
 
 **Phát triển bởi**: Nhóm Hi 
-**Thời gian**: 10/2025 – 11/2025  
 **Phiên bản**: 1.0.0
